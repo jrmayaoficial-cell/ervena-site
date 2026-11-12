@@ -224,6 +224,7 @@ def page(key):
 <section class="keys" id="ingredients">
  <div class="sec-head"><p class="kicker">Key ingredients</p><h2>Botanicals with a purpose</h2></div>
  <ul class="ing-grid">{keys}</ul>
+ <p class="swipe" aria-hidden="true">Swipe to see more &rarr;</p>
 </section>
 
 <section class="ritual">
