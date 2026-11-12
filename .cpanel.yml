@@ -4,3 +4,4 @@ deployment:
     - export DEPLOYPATH=$HOME/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp favicon.svg $DEPLOYPATH
+    - /bin/cp -R assets ervena-shampoo ervena-conditioner $DEPLOYPATH
