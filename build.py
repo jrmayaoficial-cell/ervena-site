@@ -88,11 +88,11 @@ PRODUCTS = {
             ('Mandarin &amp; cardamom', 'Citrus Reticulata · Elettaria Cardamomum',
              'Essential oils that give Ervena its fresh, warm citrus-spice scent.'),
         ],
-        inci=("Aqua, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride (or Varisoft equivalent conditioning "
-              "agent), Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii Butter, Chamomilla Recutita "
+        inci=("Aqua, Cetearyl Alcohol, Distearoylethyl Dimonium Chloride"
+              ", Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii Butter, Chamomilla Recutita "
               "Flower Extract, Leuconostoc/Radish Root Ferment Filtrate, Decyl Glucoside, Argania Spinosa Kernel "
               "Oil, Simmondsia Chinensis Seed Oil, Aloe Barbadensis Leaf Extract, Hydroxypropyl Guar "
-              "Hydroxypropyltrimonium Chloride (Goma Guar Quaternizada), Panthenol, Tocopherol, Citrus "
+              "Hydroxypropyltrimonium Chloride, Panthenol, Tocopherol, Citrus "
               "Reticulata Peel Oil, Elettaria Cardamomum Seed Oil, Hibiscus Sabdariffa Flower Extract, Camellia "
               "Sinensis Leaf Extract, Citric Acid, Limonene*, Linalool*, Citral*, Geraniol*, Citronellol*."),
         upc='860016462052',
