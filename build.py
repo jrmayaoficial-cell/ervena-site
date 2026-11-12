@@ -190,10 +190,6 @@ def page(key):
 <body>
 <header class="top">
  <a class="brand" href="/" aria-label="Ervena home"><img src="/assets/logo.svg" alt="Ervena" width="74" height="60"></a>
- <nav aria-label="Products">
-  <a href="/ervena-shampoo/"{' aria-current="page"' if key == 'shampoo' else ''}>Shampoo</a>
-  <a href="/ervena-conditioner/"{' aria-current="page"' if key == 'conditioner' else ''}>Conditioner</a>
- </nav>
 </header>
 
 <main>
